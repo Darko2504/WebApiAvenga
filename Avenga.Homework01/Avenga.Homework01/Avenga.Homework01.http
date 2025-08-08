@@ -1,0 +1,6 @@
+@Avenga.Homework01_HostAddress = http://localhost:5262
+
+GET {{Avenga.Homework01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
